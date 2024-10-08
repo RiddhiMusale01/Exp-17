@@ -1,7 +1,12 @@
 # EXPERIMENT 17
 # Aim 
+To study and implement Linked List
 # Theory
 A linked list is a linear data structure made up of nodes linked together by pointers (in C or C++) or references (in Java, Python, and JavaScript). Each node contains data as well as a pointer/reference to the node immediately following it in the list. Unlike arrays, linked lists allow for efficient insertion or removal of elements from any position in the list because the nodes are not stored sequentially in memory.
+
+CODES:
+
+
 ```
 #include <iostream>
 using namespace std;
